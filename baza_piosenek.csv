@@ -1,0 +1,990 @@
+artist,track_name,valence,energy,genre,spotify_link
+The Weeknd,The Hills,0.15,0.55,rnb,link
+The Weeknd,Starboy,0.48,0.58,rnb-rap,link
+The Weeknd,Call Out My Name,0.20,0.45,rnb,link
+The Weeknd,Earned It,0.35,0.40,rnb,link
+The Weeknd,Often,0.45,0.60,rnb,link
+The Weeknd,Blinding Lights,0.33,0.73,pop,link
+The Weeknd,Save Your Tears,0.65,0.75,pop,link
+The Weeknd,Die For You,0.50,0.60,rnb,link
+The Weeknd,Wicked Games,0.25,0.50,rnb,link
+The Weeknd,After Hours,0.30,0.65,rnb-electronic,link
+Playboi Carti,2024,0.35,0.70,rap,link
+Playboi Carti,UR THE MOON,0.40,0.65,rap,link
+Playboi Carti,Stop Breathing,0.15,0.95,rap,link
+Playboi Carti,Magnolia,0.46,0.64,rap,link
+Playboi Carti,Sky,0.57,0.64,rap,link
+Playboi Carti,Shoota,0.46,0.63,rap,link
+Playboi Carti,R.I.P.,0.20,0.85,rap-rage,link
+Ken Carson,Jennifer's Body,0.60,0.85,rap,link
+Ken Carson,Yale,0.55,0.78,rap,link
+Ken Carson,Fighting My Demons,0.25,0.88,rap,link
+Destroy Lonely,If Looks Could Kill,0.30,0.65,rap,link
+Destroy Lonely,NOSTYLIST,0.40,0.65,rap,link
+Yeat,Monëy so big,0.55,0.70,rap,link
+Yeat,Out thë way,0.45,0.65,rap,link
+Yeat,Breathe,0.35,0.80,rap,link
+Yeat,IDGAF,0.30,0.75,rap,link
+Lucki,Sunset,0.35,0.45,cloud-rap,link
+Bladee,Be Nice 2 Me,0.65,0.60,cloud-rap,link
+Yung Lean,Ginseng Strip 2002,0.45,0.55,cloud-rap,link
+Yung Lean,Kyoto,0.30,0.60,cloud-rap,link
+Future,Codeine Crazy,0.20,0.45,rap,link
+Future,Mask Off,0.38,0.57,rap,link
+Future,Life Is Good,0.55,0.57,rap,link
+Future,Wait For U,0.25,0.55,rap-ballad,link
+Future,Low Life,0.30,0.50,rap,link
+Travis Scott,MY EYES,0.25,0.45,rap,link
+Travis Scott,FE!N,0.20,0.95,rap,link
+Travis Scott,SICKO MODE,0.44,0.73,hiphop,link
+Travis Scott,HIGHEST IN THE ROOM,0.35,0.60,rap,link
+Travis Scott,I KNOW ?,0.35,0.60,rap,link
+Travis Scott,Goosebumps,0.40,0.65,rap,link
+Travis Scott,BUTTERFLY EFFECT,0.45,0.70,rap,link
+ASAP Rocky,LSD,0.20,0.35,cloud-rap,link
+ASAP Rocky,Praise The Lord,0.55,0.75,rap,link
+ASAP Rocky,Sundress,0.60,0.70,rap-pop,link
+Lil Peep,Star Shopping,0.15,0.30,emo-rap,link
+Lil Peep,Witchblades,0.35,0.65,emo-rap,link
+Lil Peep,Save That Shit,0.20,0.50,emo-rap,link
+Lil Peep,Beamer Boy,0.35,0.60,emo-rap,link
+XXXTENTACION,Jocelyn Flores,0.18,0.25,emo-rap,link
+XXXTENTACION,SAD!,0.47,0.52,emo-rap,link
+XXXTENTACION,Look At Me!,0.40,0.95,rap-aggressive,link
+XXXTENTACION,Moonlight,0.60,0.50,emo-rap,link
+XXXTENTACION,Revenge,0.30,0.40,emo-rap,link
+Juice WRLD,Lucid Dreams,0.21,0.47,emo-rap,link
+Juice WRLD,Robbery,0.30,0.65,emo-rap,link
+Juice WRLD,All Girls Are The Same,0.25,0.55,emo-rap,link
+Juice WRLD,Bandit,0.50,0.75,rap,link
+Chase Atlantic,Swim,0.30,0.60,alt-rnb,link
+Chase Atlantic,Friends,0.35,0.65,alt-rnb,link
+Chase Atlantic,Into It,0.40,0.55,alt-rnb,link
+Chase Atlantic,Slow Down,0.25,0.50,alt-rnb,link
+Two Feet,Go Fuck Yourself,0.50,0.60,rock-electronic,link
+Two Feet,I Feel Like I'm Drowning,0.35,0.50,rock-electronic,link
+Arctic Monkeys,Do I Wanna Know?,0.45,0.60,rock,link
+Arctic Monkeys,505,0.35,0.65,rock,link
+Arctic Monkeys,I Wanna Be Yours,0.30,0.45,rock-ballad,link
+Arctic Monkeys,R U Mine?,0.45,0.75,rock,link
+Arctic Monkeys,Why'd You Only Call Me When You're High?,0.65,0.60,rock,link
+Doja Cat,Streets,0.45,0.60,rnb,link
+Doja Cat,Need To Know,0.55,0.65,rnb,link
+Doja Cat,Paint The Town Red,0.75,0.68,rap-pop,link
+Doja Cat,Woman,0.80,0.70,afrobeats,link
+Doja Cat,Agora Hills,0.65,0.60,rnb-rap,link
+Rihanna,Skin,0.30,0.45,rnb,link
+Rihanna,Umbrella,0.58,0.83,pop,link
+Rihanna,Diamonds,0.39,0.71,pop,link
+Rihanna,S&M,0.83,0.78,pop,link
+Rihanna,Needed Me,0.35,0.55,rnb,link
+Jeremih,Birthday Sex,0.60,0.50,rnb,link
+Soho,Hot In It,0.70,0.80,club,link
+Drake,God's Plan,0.35,0.44,hiphop,link
+Drake,Jimmy Cooks,0.40,0.80,rap,link
+Drake,Nonstop,0.50,0.85,rap,link
+Drake,Rich Baby Daddy,0.65,0.75,rap,link
+Drake,One Dance,0.75,0.65,dancehall,link
+Kendrick Lamar,HUMBLE.,0.42,0.62,hiphop,link
+Kendrick Lamar,DNA.,0.40,0.90,rap,link
+Kendrick Lamar,Maad City,0.30,0.95,rap,link
+Kendrick Lamar,Swimming Pools,0.45,0.60,hiphop,link
+Kendrick Lamar,Money Trees,0.55,0.60,hiphop-chill,link
+21 Savage,Redrum,0.15,0.75,rap,link
+21 Savage,Bank Account,0.35,0.65,rap,link
+21 Savage,a lot,0.40,0.70,rap,link
+Pop Smoke,Dior,0.60,0.85,drill,link
+Pop Smoke,Welcome To The Party,0.45,0.90,drill,link
+Pop Smoke,For The Night,0.50,0.70,drill,link
+Scarlxrd,Heart Attack,0.05,0.99,metal-rap,link
+Ghostemane,Mercury: Retrograde,0.10,0.95,metal-rap,link
+Suicideboys,Paris,0.15,0.90,rap-dark,link
+Suicideboys,Antarctica,0.10,0.50,rap-sad,link
+Slipknot,Duality,0.25,0.95,metal,link
+Slipknot,Psychosocial,0.35,0.96,metal,link
+Slipknot,Before I Forget,0.30,0.92,metal,link
+System Of A Down,Chop Suey!,0.30,0.90,metal,link
+System Of A Down,Toxicity,0.40,0.95,metal,link
+System Of A Down,B.Y.O.B.,0.50,0.98,metal,link
+Korn,Freak On a Leash,0.45,0.85,nu-metal,link
+Korn,Coming Undone,0.40,0.80,nu-metal,link
+Rammstein,Du Hast,0.40,0.98,industrial-metal,link
+Rammstein,Sonne,0.30,0.95,industrial-metal,link
+Rammstein,Deutschland,0.35,0.90,industrial-metal,link
+Metallica,Enter Sandman,0.55,0.90,metal,link
+Metallica,Master of Puppets,0.40,0.95,metal,link
+Metallica,Nothing Else Matters,0.20,0.35,metal-ballad,link
+Bring Me The Horizon,Can You Feel My Heart,0.20,0.85,metal-rock,link
+Bring Me The Horizon,Throne,0.45,0.90,rock-electronic,link
+Linkin Park,In The End,0.20,0.75,rock-nu,link
+Linkin Park,Numb,0.25,0.85,rock-nu,link
+Linkin Park,Faint,0.30,0.95,rock-nu,link
+Linkin Park,Crawling,0.15,0.80,rock-nu,link
+Lana Del Rey,Summertime Sadness,0.25,0.55,indie-pop,link
+Lana Del Rey,Video Games,0.20,0.30,indie-pop,link
+Lana Del Rey,Born To Die,0.25,0.45,indie-pop,link
+Lana Del Rey,West Coast,0.35,0.50,pop-sad,link
+Lana Del Rey,Cherry,0.30,0.45,pop-sad,link
+Billie Eilish,Happier Than Ever,0.25,0.55,sad-rock,link
+Billie Eilish,lovely,0.15,0.25,sad-ballad,link
+Billie Eilish,bad guy,0.60,0.60,pop,link
+Billie Eilish,What Was I Made For?,0.10,0.15,sad-ballad,link
+Billie Eilish,bury a friend,0.20,0.65,pop-dark,link
+Olivia Rodrigo,Drivers License,0.20,0.40,pop-ballad,link
+Olivia Rodrigo,Good 4 U,0.60,0.85,pop-rock,link
+Olivia Rodrigo,vampire,0.30,0.65,pop-rock,link
+Olivia Rodrigo,deja vu,0.50,0.60,pop,link
+Harry Styles,Sign of the Times,0.25,0.50,pop-rock,link
+Harry Styles,As It Was,0.66,0.73,pop,link
+Harry Styles,Watermelon Sugar,0.85,0.70,pop,link
+Harry Styles,Adore You,0.70,0.65,pop,link
+Conan Gray,Heather,0.15,0.30,indie-pop,link
+Conan Gray,Maniac,0.60,0.75,pop,link
+Joji,SLOW DANCING IN THE DARK,0.15,0.35,rnb-sad,link
+Joji,Glimpse of Us,0.10,0.20,sad-ballad,link
+Joji,Sanctuary,0.50,0.60,pop-chill,link
+Frank Ocean,Nights,0.40,0.55,rnb,link
+Frank Ocean,Pink + White,0.60,0.50,rnb,link
+Frank Ocean,Chanel,0.45,0.50,rnb,link
+Frank Ocean,Ivy,0.35,0.45,rnb,link
+SZA,Love Galore,0.60,0.55,rnb,link
+SZA,Good Days,0.70,0.50,rnb,link
+SZA,Kill Bill,0.45,0.50,rnb,link
+SZA,Snooze,0.55,0.50,rnb,link
+SZA,The Weekend,0.30,0.40,rnb,link
+Tyler The Creator,New Magic Wand,0.35,0.90,rap,link
+Tyler The Creator,See You Again,0.75,0.65,rap-pop,link
+Tyler The Creator,Earfquake,0.55,0.60,rap-pop,link
+Tyler The Creator,I THINK,0.60,0.70,rap-pop,link
+Steve Lacy,Bad Habit,0.70,0.65,alt-pop,link
+Steve Lacy,Dark Red,0.45,0.60,alt-rock,link
+Tame Impala,New Person Same Old Mistakes,0.45,0.60,alt-rock,link
+Tame Impala,The Less I Know The Better,0.60,0.75,alt-rock,link
+Tame Impala,Let It Happen,0.55,0.80,alt-rock,link
+Tame Impala,Borderline,0.60,0.70,alt-rock,link
+Glass Animals,Heat Waves,0.53,0.52,indie,link
+MGMT,Electric Feel,0.75,0.70,pop,link
+MGMT,Kids,0.70,0.80,indie-pop,link
+MGMT,Time to Pretend,0.70,0.80,indie-pop,link
+Foster The People,Pumped Up Kicks,0.96,0.72,indie-pop,link
+Empire of the Sun,Walking On A Dream,0.75,0.70,indie-pop,link
+The Neighbourhood,Sweater Weather,0.40,0.80,alt-rock,link
+The Neighbourhood,Daddy Issues,0.35,0.60,alt-rock,link
+The Neighbourhood,Softcore,0.35,0.65,alt-rock,link
+Dua Lipa,Levitating,0.90,0.85,pop-disco,link
+Dua Lipa,Physical,0.80,0.90,pop-disco,link
+Dua Lipa,Don't Start Now,0.60,0.79,pop,link
+Dua Lipa,Houdini,0.75,0.85,pop-dance,link
+Miley Cyrus,Flowers,0.65,0.68,pop,link
+Miley Cyrus,Midnight Sky,0.65,0.80,pop,link
+Calvin Harris,One Kiss,0.75,0.85,house,link
+Calvin Harris,Summer,0.85,0.85,edm,link
+Calvin Harris,This Is What You Came For,0.70,0.80,edm,link
+Tiesto,The Business,0.60,0.80,house,link
+Tiesto,Don't Be Shy,0.80,0.85,dance,link
+David Guetta,Titanium,0.55,0.79,electronic,link
+David Guetta,I'm Good (Blue),0.70,0.90,edm,link
+David Guetta,Sexy Bitch,0.80,0.95,club,link
+Avicii,Wake Me Up,0.64,0.78,electronic,link
+Avicii,Levels,0.80,0.85,edm,link
+Avicii,The Nights,0.75,0.85,folk-edm,link
+Martin Garrix,Animals,0.30,0.90,edm,link
+Swedish House Mafia,Don't You Worry Child,0.50,0.85,edm,link
+Eminem,Lose Yourself,0.52,0.73,hiphop,link
+Eminem,Without Me,0.66,0.85,hiphop,link
+Eminem,The Real Slim Shady,0.76,0.66,hiphop,link
+Eminem,Till I Collapse,0.45,0.95,rap-gym,link
+Eminem,Mockingbird,0.25,0.55,rap-sad,link
+50 Cent,In Da Club,0.78,0.71,hiphop,link
+50 Cent,Candy Shop,0.60,0.70,hiphop-sexy,link
+50 Cent,P.I.M.P.,0.75,0.75,hiphop,link
+Snoop Dogg,Drop It Like It's Hot,0.63,0.35,hiphop,link
+Snoop Dogg,Gin and Juice,0.60,0.55,hiphop-chill,link
+Dr. Dre,Still D.R.E.,0.53,0.77,hiphop,link
+Dr. Dre,The Next Episode,0.65,0.80,hiphop,link
+Ice Cube,It Was A Good Day,0.80,0.65,oldschool,link
+2Pac,California Love,0.76,0.85,hiphop,link
+2Pac,Changes,0.60,0.65,hiphop,link
+Outkast,Hey Ya!,0.97,0.82,hiphop,link
+Outkast,Ms. Jackson,0.65,0.70,hiphop,link
+Coolio,Gangsta's Paradise,0.39,0.54,oldschool,link
+Kanye West,Stronger,0.49,0.71,hiphop,link
+Kanye West,Power,0.55,0.90,rap,link
+Kanye West,Heartless,0.25,0.60,hiphop,link
+Kanye West,Father Stretch My Hands Pt. 1,0.60,0.75,rap,link
+Jay-Z,Niggas In Paris,0.77,0.86,hiphop,link
+Jay-Z,Empire State of Mind,0.65,0.75,hiphop,link
+Lil Uzi Vert,XO Tour Llif3,0.38,0.71,emo-rap,link
+Lil Uzi Vert,Just Wanna Rock,0.65,0.88,rap,link
+Lil Uzi Vert,20 Min,0.60,0.75,rap,link
+Cardi B,Bodak Yellow,0.47,0.73,hiphop,link
+Cardi B,WAP,0.60,0.85,rap-sexy,link
+Megan Thee Stallion,Savage,0.70,0.75,rap-sexy,link
+Nicki Minaj,Super Bass,0.85,0.88,rap-pop,link
+Nicki Minaj,Anaconda,0.65,0.80,pop-rap,link
+Nicki Minaj,Starships,0.75,0.90,pop-dance,link
+Ariana Grande,7 rings,0.75,0.65,pop-trap,link
+Ariana Grande,thank u next,0.55,0.60,pop,link
+Ariana Grande,Dangerous Woman,0.40,0.55,pop-sexy,link
+Ariana Grande,Into You,0.65,0.80,pop,link
+Beyoncé,Crazy In Love,0.64,0.81,rnb,link
+Beyoncé,Partition,0.40,0.60,rnb,link
+Beyoncé,Halo,0.45,0.60,pop-ballad,link
+Shakira,Hips Don't Lie,0.76,0.92,latin,link
+Shakira,Waka Waka,0.75,0.85,latin,link
+Lady Gaga,Bad Romance,0.71,0.92,pop,link
+Lady Gaga,Poker Face,0.75,0.81,pop,link
+Lady Gaga,Just Dance,0.73,0.85,pop,link
+Katy Perry,Roar,0.43,0.77,pop,link
+Katy Perry,Firework,0.65,0.83,pop,link
+Katy Perry,Dark Horse,0.55,0.65,pop-trap,link
+Britney Spears,Toxic,0.92,0.77,pop,link
+Britney Spears,Gimme More,0.60,0.70,pop-sexy,link
+Sia,Chandelier,0.57,0.68,pop,link
+Sia,Unstoppable,0.60,0.75,pop-motivation,link
+Adele,Rolling in the Deep,0.52,0.76,pop,link
+Adele,Hello,0.29,0.34,pop,link
+Adele,Someone Like You,0.15,0.20,pop-sad,link
+Adele,Set Fire to the Rain,0.35,0.65,pop-ballad,link
+Sam Smith,Stay With Me,0.18,0.42,pop,link
+Sam Smith,I'm Not The Only One,0.30,0.45,pop-sad,link
+Sam Smith,Unholy,0.50,0.70,pop-dark,link
+John Legend,All of Me,0.51,0.26,pop,link
+Bruno Mars,Locked Out Of Heaven,0.85,0.80,pop,link
+Bruno Mars,That's What I Like,0.80,0.70,rnb-pop,link
+Mark Ronson ft. Bruno Mars,Uptown Funk,0.92,0.61,pop,link
+Pharrell Williams,Happy,0.96,0.82,pop,link
+Justin Timberlake,Can't Stop the Feeling!,0.93,0.83,pop,link
+Maroon 5,Sugar,0.88,0.79,pop,link
+Maroon 5,Moves Like Jagger,0.85,0.85,pop,link
+Ed Sheeran,Shape of You,0.93,0.65,pop,link
+Ed Sheeran,Perfect,0.30,0.40,pop-ballad,link
+Imagine Dragons,Radioactive,0.40,0.77,rock,link
+Imagine Dragons,Demons,0.38,0.71,rock,link
+Imagine Dragons,Believer,0.45,0.80,rock-pop,link
+Imagine Dragons,Thunder,0.65,0.70,rock-pop,link
+OneRepublic,Counting Stars,0.48,0.71,pop-rock,link
+Coldplay,Viva La Vida,0.42,0.62,rock,link
+Coldplay,Adventure of a Lifetime,0.57,0.93,pop,link
+Coldplay,Yellow,0.30,0.45,rock-sad,link
+The Killers,Mr. Brightside,0.35,0.93,rock,link
+Kings of Leon,Sex on Fire,0.39,0.91,rock,link
+Hozier,Take Me To Church,0.41,0.66,rock,link
+Green Day,American Idiot,0.75,0.95,punk-rock,link
+Green Day,Boulevard of Broken Dreams,0.25,0.55,rock,link
+Green Day,Wake Me Up When September Ends,0.30,0.50,rock-sad,link
+Red Hot Chili Peppers,Californication,0.35,0.70,rock,link
+Red Hot Chili Peppers,Can't Stop,0.80,0.90,rock,link
+Red Hot Chili Peppers,Otherside,0.40,0.75,rock,link
+Nirvana,Smells Like Teen Spirit,0.45,0.90,grunge,link
+Nirvana,Come As You Are,0.40,0.65,grunge,link
+Nirvana,Something In The Way,0.05,0.20,grunge,link
+Nirvana,Heart-Shaped Box,0.35,0.75,grunge,link
+Queen,Bohemian Rhapsody,0.22,0.40,rock,link
+Queen,Don't Stop Me Now,0.86,0.87,rock,link
+Queen,We Will Rock You,0.60,0.75,rock,link
+Michael Jackson,Billie Jean,0.85,0.60,pop,link
+Michael Jackson,Beat It,0.87,0.86,pop,link
+Michael Jackson,Thriller,0.70,0.80,pop,link
+Abba,Dancing Queen,0.76,0.88,pop,link
+Abba,Mamma Mia,0.83,0.75,pop,link
+Abba,Gimme! Gimme! Gimme!,0.75,0.80,pop-classic,link
+Bon Jovi,Livin' On A Prayer,0.68,0.89,rock,link
+Bon Jovi,It's My Life,0.75,0.90,rock,link
+AC/DC,Highway to Hell,0.65,0.85,rock-classic,link
+AC/DC,Back In Black,0.70,0.85,rock-classic,link
+Guns N' Roses,Welcome To The Jungle,0.55,0.92,rock-classic,link
+Whitney Houston,I Wanna Dance with Somebody,0.86,0.82,pop,link
+Cyndi Lauper,Girls Just Want to Have Fun,0.73,0.80,pop,link
+A-ha,Take On Me,0.86,0.90,pop,link
+BLACKPINK,Kill This Love,0.60,0.90,kpop,link
+BLACKPINK,How You Like That,0.75,0.85,kpop,link
+BLACKPINK,Pink Venom,0.70,0.80,kpop,link
+BLACKPINK,DDU-DU DDU-DU,0.70,0.90,kpop,link
+BTS,Mic Drop (Steve Aoki Remix),0.65,0.90,kpop,link
+BTS,Run BTS,0.75,0.85,kpop,link
+BTS,Dynamite,0.90,0.85,kpop-pop,link
+BTS,Butter,0.88,0.80,kpop-pop,link
+NewJeans,Super Shy,0.80,0.75,kpop,link
+NewJeans,OMG,0.85,0.70,kpop,link
+NewJeans,ETA,0.75,0.85,kpop,link
+Stray Kids,Maniac,0.55,0.75,kpop,link
+Stray Kids,God's Menu,0.60,0.90,kpop,link
+Enhypen,Fever,0.38,0.68,kpop,link
+Enhypen,Drunk-Dazed,0.50,0.85,kpop,link
+Tate McRae,greedy,0.70,0.75,pop-viral,link
+Tyla,Water,0.60,0.78,afrobeats,link
+Sabrina Carpenter,Espresso,0.85,0.75,pop,link
+Kenya Grace,Strangers,0.55,0.70,dnb-pop,link
+Cassö ft. RAYE,Prada,0.65,0.85,dance,link
+Peggy Gou,(It Goes Like) Nanana,0.90,0.88,house,link
+Peggy Gou,Starry Night,0.85,0.80,house,link
+Troye Sivan,Rush,0.75,0.95,club,link
+PinkPantheress,Boy's a liar Pt. 2,0.60,0.70,drum-and-bass,link
+Ice Spice,Deli,0.55,0.65,drill-pop,link
+Central Cee,Doja,0.50,0.60,drill,link
+Central Cee,Sprinter,0.65,0.75,drill,link
+Dave,Starlight,0.60,0.65,rap-uk,link
+Kordhell,Murder In My Mind,0.30,0.98,phonk,link
+Kordhell,Live Another Day,0.40,0.95,phonk,link
+MoonDeity,Neon Blade,0.35,0.92,phonk,link
+Interworld,Metamorphosis,0.40,0.90,phonk,link
+DVRST,Close Eyes,0.35,0.85,phonk,link
+Tevvez,Legend,0.50,0.90,hardstyle,link
+Zyzz,Teardrops,0.45,0.95,hardstyle,link
+Mitski,My Love Mine All Mine,0.15,0.25,indie-sad,link
+Mitski,Washing Machine Heart,0.40,0.60,indie,link
+d4vd,Here With Me,0.30,0.45,indie-pop,link
+d4vd,Romantic Homicide,0.15,0.30,indie-sad,link
+Laufey,From The Start,0.70,0.55,jazz-pop,link
+Stephen Sanchez,Until I Found You,0.55,0.40,retro-pop,link
+Måneskin,Beggin',0.75,0.80,rock,link
+Måneskin,I WANNA BE YOUR SLAVE,0.65,0.85,rock,link
+Oliver Tree,Miss You,0.60,0.90,dance,link
+David Kushner,Daylight,0.20,0.35,sad-pop,link
+Tom Odell,Another Love,0.25,0.45,indie-sad,link
+Fred again..,adore u,0.65,0.75,electronic,link
+Fred again..,Marea (We’ve Lost Dancing),0.60,0.80,house,link
+The Weeknd ft. Jennie,One Of The Girls,0.35,0.55,rnb,link
+Creeds,Push Up,0.60,0.99,techno,link
+Lil Yachty,Poland,0.60,0.55,rap-meme,link
+ThxSoMch,SPIT IN MY FACE!,0.45,0.80,post-punk,link
+Jack Harlow,Lovin On Me,0.85,0.75,rap,link
+FloyyMenor,Gata Only,0.70,0.70,reggaeton,link
+Artemas,i like the way you kiss me,0.65,0.85,alt-pop,link
+Benson Boone,Beautiful Things,0.55,0.70,pop-rock,link
+Chappell Roan,Good Luck Babe!,0.75,0.80,synth-pop,link
+Charli xcx,360,0.65,0.75,hyperpop,link
+Tommy Richman,MILLION DOLLAR BABY,0.80,0.75,funk-rap,link
+Bad Bunny,Monaco,0.70,0.75,latin-trap,link
+Bad Bunny,Tití Me Preguntó,0.80,0.85,reggaeton,link
+Rosalía,DESPECHÁ,0.90,0.80,latin-pop,link
+Karol G,PROVENZA,0.75,0.70,reggaeton,link
+Rauw Alejandro,Todo De Ti,0.95,0.85,latin-pop,link
+Nelly Furtado,Promiscuous,0.96,0.97,2000s-pop,link
+Timbaland,The Way I Are,0.78,0.75,2000s-pop,link
+Flo Rida,Low,0.80,0.90,party-rap,link
+Flo Rida,Right Round,0.80,0.90,party,link
+Pitbull,Hotel Room Service,0.85,0.95,party,link
+Pitbull,Time of Our Lives,0.82,0.80,party,link
+Pitbull,Give Me Everything,0.85,0.95,party,link
+Usher,Yeah!,0.60,0.88,rnb-party,link
+Black Eyed Peas,I Gotta Feeling,0.61,0.76,pop,link
+Black Eyed Peas,Pump It,0.90,0.95,party,link
+Jennifer Lopez,On The Floor,0.70,0.80,dance,link
+Kesha,TiK ToK,0.75,0.85,pop-party,link
+LMFAO,Party Rock Anthem,0.75,0.90,party,link
+Far East Movement,Like A G6,0.55,0.85,party,link
+Sean Paul,Temperature,0.80,0.90,dancehall,link
+Daddy Yankee,Gasolina,0.85,0.92,reggaeton,link
+Don Omar,Danza Kuduro,0.90,0.95,latin-party,link
+Stromae,Alors on danse,0.65,0.80,dance,link
+Indila,Dernière danse,0.35,0.65,french-pop,link
+Macklemore,Can't Hold Us,0.85,0.93,rap-pop,link
+Macklemore,Thrift Shop,0.75,0.80,rap-pop,link
+Wiz Khalifa,See You Again,0.40,0.55,rap-ballad,link
+Gnarls Barkley,Crazy,0.80,0.75,soul-pop,link
+Skolim,Wyglądasz Idealnie,0.95,0.90,latino-polo,link
+Cigarettes After Sex,Apocalypse,0.15,0.25,dream-pop,link
+Cigarettes After Sex,K.,0.20,0.30,dream-pop,link
+Cigarettes After Sex,Sunsetz,0.25,0.35,dream-pop,link
+Lorde,Ribs,0.25,0.60,alt-pop,link
+Lorde,Royals,0.40,0.50,pop,link
+Phoebe Bridgers,Motion Sickness,0.35,0.50,indie-sad,link
+Sufjan Stevens,Mystery of Love,0.20,0.15,indie-folk,link
+Bon Iver,Skinny Love,0.15,0.20,indie-folk,link
+Mac DeMarco,Chamber of Reflection,0.35,0.50,indie,link
+Mac DeMarco,Freaking Out the Neighborhood,0.65,0.70,indie,link
+Three Days Grace,I Hate Everything About You,0.20,0.90,rock-anger,link
+Three Days Grace,Animal I Have Become,0.30,0.92,rock-anger,link
+Papa Roach,Last Resort,0.35,0.95,rock-anger,link
+Evanescence,Bring Me To Life,0.30,0.85,rock-emo,link
+Evanescence,My Immortal,0.10,0.20,rock-sad,link
+Deftones,Change (In the House of Flies),0.25,0.60,metal,link
+Deftones,Cherry Waves,0.30,0.55,metal,link
+Deftones,My Own Summer (Shove It),0.35,0.85,metal,link
+Crystal Castles,Crimewave,0.60,0.85,electronic,link
+Pastel Ghost,Dark Beach,0.20,0.70,electronic,link
+Enhypen,Bite Me,0.55,0.75,kpop,link
+Stray Kids,Venom,0.50,0.85,kpop,link
+DPR IAN,Don't Go Insane,0.60,0.80,alt-pop,link
+Ateez,Cyberpunk,0.45,0.85,kpop,link
+Kai,Mmmh,0.65,0.60,kpop,link
+Brent Faiyaz,Dead Man Walking,0.40,0.50,rnb,link
+Brent Faiyaz,Clouded,0.25,0.45,rnb,link
+Ludovico Einaudi,Experience,0.30,0.40,classical-study,link
+Hans Zimmer,Time,0.40,0.50,soundtrack-focus,link
+Yiruma,River Flows In You,0.50,0.30,piano-study,link
+Lo-Fi Beats,Study Chill,0.60,0.30,lofi,link
+Avril Lavigne,Complicated,0.60,0.70,pop-rock,link
+Avril Lavigne,Sk8er Boi,0.75,0.90,pop-punk,link
+Paramore,Misery Business,0.70,0.95,pop-punk,link
+Paramore,Still into You,0.80,0.90,pop-punk,link
+Fall Out Boy,Centuries,0.55,0.85,rock,link
+Fall Out Boy,Thnks fr th Mmrs,0.65,0.90,rock,link
+Panic! At The Disco,High Hopes,0.85,0.90,pop-rock,link
+Panic! At The Disco,I Write Sins Not Tragedies,0.70,0.85,pop-rock,link
+Twenty One Pilots,Stressed Out,0.60,0.75,alt-pop,link
+Twenty One Pilots,Heathens,0.35,0.65,alt-pop,link
+Twenty One Pilots,Ride,0.65,0.80,alt-pop,link
+Walk The Moon,Shut Up and Dance,0.90,0.95,pop-rock,link
+The White Stripes,Seven Nation Army,0.55,0.80,rock,link
+Blur,Song 2,0.85,0.95,rock,link
+Survivor,Eye of the Tiger,0.70,0.90,rock-gym,link
+Europe,The Final Countdown,0.65,0.85,rock-classic,link
+Toto,Africa,0.70,0.60,classic,link
+Eagles,Hotel California,0.50,0.45,classic,link
+Earth Wind & Fire,September,0.98,0.90,disco,link
+Bee Gees,Stayin' Alive,0.85,0.80,disco,link
+a-ha,Take On Me,0.86,0.90,pop-classic,link
+Eurythmics,Sweet Dreams (Are Made of This),0.65,0.80,pop-classic,link
+Metro Boomin,Trance,0.30,0.60,rap,link
+Metro Boomin,Creepin',0.25,0.55,rnb-rap,link
+Metro Boomin,Too Many Nights,0.60,0.70,rap,link
+Gunna,fukumean,0.65,0.70,rap,link
+Gunna,pushin P,0.50,0.65,rap,link
+Lil Baby,Drip Too Hard,0.60,0.70,rap,link
+Lil Baby,Freestyle,0.55,0.80,rap,link
+Roddy Ricch,The Box,0.65,0.75,rap,link
+DaBaby,Rockstar,0.70,0.75,rap,link
+Kodak Black,Super Gremlin,0.50,0.60,rap,link
+NLE Choppa,Walk Em Down,0.55,0.75,rap,link
+Ski Mask The Slump God,Catch Me Outside,0.75,0.90,rap,link
+Ski Mask The Slump God,Faucet Failure,0.80,0.70,rap,link
+Lil Tecca,Ransom,0.70,0.75,rap,link
+Don Toliver,No Idea,0.55,0.65,rap-rnb,link
+Don Toliver,After Party,0.60,0.70,rap-rnb,link
+Kali Uchis,Telepatía,0.60,0.55,latin-chill,link
+Kali Uchis,Moonlight,0.65,0.60,latin-chill,link
+Childish Gambino,Redbone,0.65,0.55,rnb-funk,link
+Childish Gambino,This Is America,0.45,0.70,rap,link
+Willow,Wait a Minute!,0.65,0.75,alt-pop,link
+Clairo,Sofia,0.55,0.60,indie-pop,link
+Girl in Red,We Fell in Love in October,0.45,0.55,indie-pop,link
+Beach House,Space Song,0.20,0.40,dream-pop,link
+TV Girl,Lovers Rock,0.45,0.55,indie,link
+TV Girl,Not Allowed,0.40,0.50,indie,link
+Current Joys,New Flesh,0.25,0.45,indie-sad,link
+Roar,I Can't Handle Change,0.20,0.35,indie-sad,link
+Sean Kingston,Beautiful Girls,0.85,0.75,pop-reggae,link
+Sean Kingston,Fire Burning,0.90,0.95,dance,link
+Jason Derulo,Talk Dirty,0.75,0.80,pop-dance,link
+Jason Derulo,Wiggle,0.80,0.75,pop-dance,link
+Ne-Yo,So Sick,0.30,0.50,rnb-ballad,link
+Ne-Yo,Miss Independent,0.75,0.75,rnb-pop,link
+Chris Brown,Under The Influence,0.50,0.60,rnb,link
+Chris Brown,Loyal,0.65,0.70,rnb,link
+Jeremih,Don't Tell 'Em,0.60,0.70,rnb,link
+Tyga,Taste,0.75,0.75,rap-party,link
+YG,Go Loko,0.80,0.75,rap-party,link
+Kid Cudi,Day 'N' Nite,0.50,0.65,hiphop,link
+Kid Cudi,Pursuit Of Happiness,0.45,0.70,hiphop,link
+Kid Cudi,Mr. Rager,0.35,0.75,hiphop,link
+Foster The People,Sit Next to Me,0.70,0.70,indie-pop,link
+Grouplove,Tongue Tied,0.90,0.95,indie-pop,link
+Fitz and The Tantrums,Out of My League,0.75,0.80,indie-pop,link
+Portugal. The Man,Feel It Still,0.80,0.75,rock-pop,link
+Milky Chance,Stolen Dance,0.65,0.60,indie-folk,link
+Vance Joy,Riptide,0.85,0.75,indie-folk,link
+The Lumineers,Ho Hey,0.70,0.65,indie-folk,link
+Of Monsters and Men,Little Talks,0.65,0.80,indie-folk,link
+X Ambassadors,Renegades,0.60,0.70,rock,link
+Bastille,Pompeii,0.60,0.85,pop-rock,link
+American Authors,Best Day Of My Life,0.95,0.90,pop-rock,link
+Owl City,Fireflies,0.75,0.70,pop-electronic,link
+Carly Rae Jepsen,Call Me Maybe,0.90,0.85,pop,link
+Katy Perry,California Gurls,0.85,0.85,pop,link
+Katy Perry,Teenage Dream,0.80,0.80,pop,link
+Katy Perry,Last Friday Night (T.G.I.F.),0.90,0.90,pop-party,link
+Ke$ha,Die Young,0.80,0.90,pop-party,link
+Taio Cruz,Dynamite,0.90,0.95,pop-party,link
+Jay Sean,Down,0.75,0.75,pop-rnb,link
+Iyaz,Replay,0.80,0.75,pop-reggae,link
+B.o.B,Airplanes,0.45,0.70,pop-rap,link
+Travie McCoy,Billionaire,0.85,0.75,pop-rap,link
+Gym Class Heroes,Stereo Hearts,0.75,0.80,pop-rap,link
+Train,Hey Soul Sister,0.85,0.75,pop-rock,link
+The Script,Hall of Fame,0.60,0.80,pop-rock,link
+The Fray,How to Save a Life,0.30,0.55,rock-sad,link
+Snow Patrol,Chasing Cars,0.25,0.50,rock-sad,link
+James Arthur,Say You Won't Let Go,0.35,0.45,pop-ballad,link
+Lewis Capaldi,Someone You Loved,0.20,0.35,pop-sad,link
+Lewis Capaldi,Before You Go,0.30,0.55,pop-sad,link
+Dean Lewis,Be Alright,0.25,0.50,pop-sad,link
+Alec Benjamin,Let Me Down Slowly,0.35,0.50,pop-sad,link
+Marshmello,Happier,0.70,0.80,edm-pop,link
+Marshmello,Silence,0.50,0.75,edm,link
+Marshmello,Alone,0.65,0.85,edm,link
+Alan Walker,Faded,0.35,0.70,edm,link
+Alan Walker,The Spectre,0.60,0.85,edm,link
+The Chainsmokers,Closer,0.65,0.75,edm-pop,link
+The Chainsmokers,Don't Let Me Down,0.55,0.85,edm-pop,link
+The Chainsmokers,Something Just Like This,0.60,0.80,edm-pop,link
+Major Lazer,Lean On,0.70,0.85,dance,link
+DJ Snake,Taki Taki,0.75,0.90,latin-dance,link
+J Balvin,Mi Gente,0.80,0.85,latin,link
+Luis Fonsi,Échame La Culpa,0.85,0.85,latin,link
+Enrique Iglesias,Bailando,0.85,0.80,latin,link
+Ricky Martin,Livin' la Vida Loca,0.90,0.95,latin-pop,link
+Lana Del Rey,Young and Beautiful,0.25,0.40,pop-sad,link
+Lana Del Rey,Blue Jeans,0.30,0.50,pop-sad,link
+Lana Del Rey,Diet Mountain Dew,0.55,0.65,pop,link
+Marina,Primadonna,0.70,0.80,pop,link
+Marina,How to Be a Heartbreaker,0.75,0.85,pop,link
+Melanie Martinez,Play Date,0.65,0.60,alt-pop,link
+Melanie Martinez,Dollhouse,0.40,0.55,alt-pop,link
+Sub Urban,Cradles,0.35,0.60,alt-pop,link
+Mother Mother,Hayloft,0.50,0.85,indie-rock,link
+Mother Mother,Burning Pile,0.45,0.75,indie-rock,link
+Ricky Montgomery,Line Without a Hook,0.55,0.65,indie-pop,link
+The Rare Occasions,Notion,0.75,0.85,indie-rock,link
+Surf Curse,Freaks,0.60,0.85,indie-rock,link
+Currents,Better Days,0.40,0.90,metalcore,link
+Bad Omens,Just Pretend,0.35,0.85,metalcore,link
+Sleep Token,The Summoning,0.45,0.90,metal-prog,link
+Spiritbox,Holy Roller,0.20,0.95,metal,link
+Motionless In White,Masterpiece,0.30,0.85,metal,link
+Falling In Reverse,Popular Monster,0.40,0.95,rock-rap,link
+Pierce The Veil,King For A Day,0.45,0.98,post-hardcore,link
+My Chemical Romance,Welcome to the Black Parade,0.40,0.90,rock-emo,link
+My Chemical Romance,Teenagers,0.65,0.85,rock-emo,link
+Skrillex,Bangarang,0.70,0.99,dubstep,link
+Skrillex,Scary Monsters and Nice Sprites,0.60,0.95,dubstep,link
+Knife Party,Bonfire,0.65,0.99,dubstep,link
+Pendulum,Witchcraft,0.55,0.95,dnb,link
+Prodigy,Firestarter,0.40,0.98,electronic-rock,link
+Darude,Sandstorm,0.50,0.95,trance,link
+Alice Deejay,Better Off Alone,0.60,0.90,eurodance,link
+Cascada,Everytime We Touch,0.75,0.98,eurodance,link
+Basshunter,Dota,0.80,0.95,eurodance,link
+O-Zone,Dragostea Din Tei,0.95,0.90,eurodance,link
+Gigi D'Agostino,L'Amour Toujours,0.85,0.85,dance,link
+Eiffel 65,Blue (Da Ba Dee),0.80,0.90,eurodance,link
+Megan Thee Stallion,Body,0.75,0.85,baddie-rap,link
+Megan Thee Stallion,Thot Shit,0.65,0.90,baddie-rap,link
+Megan Thee Stallion,HISS,0.50,0.85,baddie-rap,link
+Megan Thee Stallion,Savage Remix (feat. Beyoncé),0.70,0.80,baddie-rap,link
+Cardi B,Up,0.80,0.85,baddie-rap,link
+Cardi B,Money,0.60,0.70,baddie-rap,link
+Cardi B,I Like It,0.85,0.80,latin-trap,link
+Doja Cat,Boss Bitch,0.85,0.95,baddie-pop,link
+Doja Cat,Rules,0.70,0.65,baddie-rap,link
+Doja Cat,Vegas,0.60,0.75,baddie-rap,link
+Doja Cat,Get Into It (Yuh),0.75,0.80,baddie-rap,link
+Saweetie,My Type,0.80,0.90,baddie-rap,link
+Saweetie,Best Friend,0.85,0.85,baddie-rap,link
+Nicki Minaj,Chun-Li,0.60,0.75,baddie-rap,link
+Nicki Minaj,Moment 4 Life,0.65,0.80,pop-rap,link
+Nicki Minaj,Only,0.55,0.60,rap-explicit,link
+Nicki Minaj,Feeling Myself,0.65,0.60,baddie-rap,link
+Rihanna,Bitch Better Have My Money,0.35,0.70,baddie-trap,link
+Rihanna,Pour It Up,0.40,0.60,baddie-trap,link
+Rihanna,Rude Boy,0.75,0.70,pop-rnb,link
+Beyoncé,Run the World (Girls),0.70,0.90,pop-power,link
+Beyoncé,Diva,0.55,0.75,rnb-trap,link
+Beyoncé,Formation,0.60,0.80,baddie-trap,link
+Iggy Azalea,Fancy,0.75,0.80,pop-rap,link
+Iggy Azalea,Black Widow,0.60,0.75,pop-rap,link
+Latto,Big Energy,0.85,0.80,pop-rap,link
+Flo Milli,In The Party,0.70,0.80,baddie-rap,link
+BIA,WHOLE LOTTA MONEY,0.50,0.65,baddie-trap,link
+Ice Spice,Princess Diana,0.60,0.70,drill-pop,link
+Ice Spice,Munch (Feelin' U),0.55,0.60,drill-pop,link
+City Girls,Act Up,0.75,0.80,baddie-rap,link
+Ashnikko,Daisy,0.65,0.75,alt-pop,link
+Ashnikko,Stupid,0.70,0.85,alt-pop,link
+Rico Nasty,Smack A Bitch,0.40,0.95,rap-rage,link
+Azealia Banks,212,0.80,0.90,house-rap,link
+Fergie,Fergalicious,0.85,0.80,pop-rap,link
+Fergie,London Bridge,0.75,0.85,pop-rap,link
+Gwen Stefani,Hollaback Girl,0.80,0.85,pop,link
+Pussycat Dolls,Don't Cha,0.85,0.80,pop-rnb,link
+Pussycat Dolls,Buttons,0.70,0.75,pop-sexy,link
+Nelly Furtado,Maneater,0.75,0.85,pop-dance,link
+Mareux,The Perfect Girl,0.20,0.60,sigma-wave,link
+Hensonn,Sahara,0.25,0.95,phonk,link
+Kordhell,Murder In My Mind,0.30,0.98,phonk,link
+DVRST,Close Eyes,0.35,0.85,phonk,link
+PlayaPhonk,Phonky Town,0.60,0.90,phonk,link
+Interworld,Metamorphosis,0.40,0.90,phonk,link
+MoonDeity,Wake Up!,0.30,0.95,phonk,link
+Ghostface Playa,Why Not,0.50,0.85,phonk-meme,link
+Kavinsky,Nightcall,0.30,0.60,synthwave,link
+Kavinsky,Odd Look,0.45,0.75,synthwave,link
+Perturbator,Future Club,0.20,0.85,dark-synth,link
+Carpenter Brut,Turbo Killer,0.30,0.95,dark-synth,link
+Mr. Kitty,After Dark,0.25,0.55,dark-wave,link
+Pastel Ghost,Dark Beach,0.20,0.70,dark-wave,link
+Crystal Castles,Transgender,0.15,0.60,dark-electronic,link
+Crystal Castles,Kerosene,0.25,0.70,dark-electronic,link
+M83,Midnight City,0.40,0.75,electronic,link
+MGMT,Little Dark Age,0.35,0.65,synth-pop,link
+The Neighbourhood,Sweater Weather,0.40,0.80,alt-rock,link
+Tame Impala,The Less I Know The Better,0.60,0.75,alt-rock,link
+Kanye West,I Am A God,0.40,0.85,rap-god,link
+Kanye West,Black Skinhead,0.30,0.95,rap-rage,link
+Kanye West,On Sight,0.20,0.98,rap-rage,link
+Kanye West,Can't Tell Me Nothing,0.50,0.70,hiphop,link
+Imagine Dragons,Bones,0.65,0.85,rock-sigma,link
+Bring Me The Horizon,Can You Feel My Heart,0.20,0.85,gigachad-theme,link
+Rammstein,Sonne,0.30,0.95,industrial-metal,link
+Gesaffelstein,Aleph,0.10,0.70,dark-techno,link
+Gesaffelstein,Viol,0.15,0.80,dark-techno,link
+Aaron Smith,Dancin (Krono Remix),0.80,0.75,house-sigma,link
+Bag Raiders,Shooting Stars,0.75,0.80,meme-electronic,link
+Foster The People,Pumped Up Kicks,0.96,0.72,indie-pop,link
+Gorillaz,Rhinestone Eyes,0.50,0.65,alternative,link
+Home,Resonance,0.60,0.50,vaporwave,link
+VøJ,Naruto,0.40,0.90,phonk,link
+Dxrk,RAVE,0.35,0.95,phonk,link
+Summer Walker,Girls Need Love (Remix),0.45,0.50,rnb-sexy,link
+Summer Walker,Playing Games,0.40,0.55,rnb,link
+Summer Walker,Session 32,0.30,0.40,rnb-sad,link
+SZA,The Weekend,0.35,0.45,rnb,link
+SZA,Broken Clocks,0.40,0.55,rnb,link
+SZA,Garden (Say It Like Dat),0.50,0.60,rnb,link
+Bryson Tiller,Don't,0.35,0.45,rnb-trap,link
+Bryson Tiller,Exchange,0.40,0.50,rnb-trap,link
+Bryson Tiller,Right My Wrongs,0.25,0.40,rnb-sad,link
+PartyNextDoor,Come and See Me,0.30,0.40,rnb-chill,link
+PartyNextDoor,Break from Toronto,0.55,0.60,rnb-chill,link
+PartyNextDoor,Persian Rugs,0.45,0.50,rnb-sexy,link
+Trey Songz,Slow Motion,0.60,0.55,rnb-sexy,link
+Trey Songz,Neighbors Know My Name,0.50,0.50,rnb-sexy,link
+Trey Songz,Na Na,0.75,0.70,rnb-party,link
+Jeremih,Planez,0.45,0.55,rnb-sexy,link
+Jeremih,Oui,0.60,0.55,rnb-love,link
+Jeremih,All The Time,0.50,0.60,rnb-sexy,link
+Chris Brown,No Guidance,0.40,0.65,rnb,link
+Chris Brown,Under The Influence,0.50,0.60,rnb-sexy,link
+Chris Brown,Wet The Bed,0.55,0.60,rnb-sexy,link
+Chris Brown,Take You Down,0.45,0.55,rnb-sexy,link
+Usher,Nice & Slow,0.60,0.50,rnb-classic,link
+Usher,Confessions Part II,0.55,0.65,rnb-classic,link
+Usher,Burn,0.25,0.50,rnb-sad,link
+Usher,My Boo,0.70,0.60,rnb-classic,link
+Usher,U Got It Bad,0.40,0.50,rnb-classic,link
+Miguel,Adorn,0.60,0.55,rnb-love,link
+Miguel,Sure Thing,0.50,0.45,rnb-chill,link
+Miguel,Sky Walker,0.65,0.70,rnb-party,link
+Jhené Aiko,P*$$Y Fairy (OTW),0.40,0.50,rnb-sexy,link
+Jhené Aiko,Sativa,0.55,0.60,rnb-chill,link
+Jhené Aiko,While We're Young,0.60,0.55,rnb-love,link
+H.E.R.,Best Part,0.80,0.40,rnb-love,link
+H.E.R.,Focus,0.45,0.45,rnb-chill,link
+Daniel Caesar,Get You,0.75,0.45,rnb-love,link
+Daniel Caesar,Japanese Denim,0.60,0.50,rnb-love,link
+Kali Uchis,Melting,0.65,0.45,rnb-dreamy,link
+Kali Uchis,After The Storm,0.70,0.60,rnb-funk,link
+Snoh Aalegra,I Want You Around,0.50,0.55,rnb-chill,link
+6LACK,Prblms,0.25,0.55,rnb-dark,link
+6LACK,Pretty Little Fears,0.30,0.50,rnb-love,link
+Giveon,Heartbreak Anniversary,0.20,0.45,rnb-sad,link
+Giveon,Like I Want You,0.40,0.50,rnb-chill,link
+Brent Faiyaz,Trust,0.45,0.50,rnb,link
+Brent Faiyaz,Rehab (Winter In Paris),0.35,0.55,rnb,link
+Tory Lanez,The Color Violet,0.50,0.75,rnb-synth,link
+Tory Lanez,LUV,0.80,0.70,rnb-dance,link
+Don Toliver,Swangin' On Westheimer,0.40,0.55,rnb-trap,link
+Don Toliver,Private Landing,0.55,0.75,rnb-trap,link
+Kehlani,Nights Like This,0.45,0.65,rnb,link
+Kehlani,Gangsta,0.30,0.50,rnb-dark,link
+Ella Mai,Boo'd Up,0.65,0.60,rnb-love,link
+Ella Mai,Trip,0.55,0.60,rnb-love,link
+Beyoncé,Dance for You,0.50,0.55,rnb-sexy,link
+Beyoncé,Rocket,0.60,0.50,rnb-sexy,link
+Rihanna,Love on the Brain,0.40,0.50,rnb-soul,link
+Rihanna,Kiss It Better,0.50,0.65,rnb-rock,link
+Frank Ocean,Thinking Bout You,0.55,0.50,rnb,link
+Frank Ocean,Novacane,0.45,0.55,rnb,link
+Childish Gambino,Sober,0.60,0.65,rnb-pop,link
+Anderson .Paak,Come Down,0.80,0.85,rnb-funk,link
+Bruno Mars,Versace on the Floor,0.60,0.50,rnb-ballad,link
+Silk Sonic,Leave The Door Open,0.75,0.60,rnb-soul,link
+Silk Sonic,Smokin Out The Window,0.70,0.65,rnb-soul,link
+TLC,No Scrubs,0.75,0.70,rnb-classic,link
+Destiny's Child,Say My Name,0.65,0.75,rnb-classic,link
+Aaliyah,Are You That Somebody,0.70,0.75,rnb-classic,link
+Ginuwine,Pony,0.60,0.55,rnb-sexy,link
+Mario,Let Me Love You,0.75,0.65,rnb-love,link
+Ne-Yo,Sexy Love,0.80,0.65,rnb-love,link
+T-Pain,Buy U a Drank,0.70,0.75,rnb-party,link
+Akon,Smack That,0.85,0.85,rnb-party,link
+Akon,I Wanna Love You,0.65,0.70,rnb-sexy,link
+Justin Timberlake,Cry Me a River,0.45,0.60,rnb-pop,link
+Justin Timberlake,SexyBack,0.75,0.90,rnb-pop,link
+The Pussycat Dolls,Stickwitu,0.70,0.50,rnb-ballad,link
+Cassie,Me & U,0.65,0.70,rnb-minimal,link
+Ciara,Body Party,0.60,0.55,rnb-sexy,link
+Ciara,1, 2 Step,0.85,0.90,rnb-dance,link
+Rich Amiri,ONE CALL,0.45,0.75,rap,link
+Rich Amiri,Aint Nothing,0.35,0.70,rap,link
+Rich Amiri,Poppin,0.50,0.80,rap,link
+Rich Amiri,Madonna,0.40,0.75,rap,link
+Rich Amiri,Codeine Breath,0.30,0.65,rap-dark,link
+Rich Amiri,Ruthless,0.25,0.80,rap-dark,link
+Rich Amiri,Geneisis,0.20,0.75,rap-dark,link
+Rich Amiri,OUTTA THERE,0.35,0.85,rap,link
+Rich Amiri,Keep All That,0.40,0.70,rap,link
+Rich Amiri,Best Friend,0.55,0.75,rap,link
+EsDeeKid,Century,0.40,0.85,uk-rap,link
+EsDeeKid,Phantom,0.25,0.80,cloud-rap,link
+EsDeeKid,LV Sandals,0.50,0.75,trap-jerk,link
+EsDeeKid,4 Raws,0.35,0.90,uk-drill,link
+EsDeeKid,Palaces,0.30,0.70,cloud-rap,link
+EsDeeKid,Rebel,0.45,0.85,uk-rap,link
+EsDeeKid,Bally,0.20,0.95,dark-trap,link
+EsDeeKid,Little Kidda,0.55,0.70,uk-rap,link
+EsDeeKid,Warmin' Up,0.40,0.80,uk-rap,link
+Osamason,X & Sex,0.35,0.95,rage-rap,link
+Osamason,Kills,0.25,0.90,rage-rap,link
+Osamason,Troops,0.30,0.92,rage-rap,link
+Osamason,Pop,0.45,0.85,rage-rap,link
+Osamason,Flex,0.50,0.80,rage-rap,link
+Hardrock,bleh,0.30,0.85,underground-rap,link
+Hardrock,feel alive,0.20,0.75,underground-rap,link
+Hardrock,poof,0.35,0.80,underground-rap,link
+Nettspend,DrankDrankDrank,0.40,0.70,underground-rap,link
+Nettspend,Shine N Peace,0.55,0.65,underground-rap,link
+Nettspend,2024 Freestyle,0.45,0.75,underground-rap,link
+Lazer Dim 700,Asian Rock,0.60,0.85,rage-rap,link
+Lazer Dim 700,Laced Max,0.35,0.90,rage-rap,link
+Fimiguerrero,5am,0.40,0.80,uk-rage,link
+Fimiguerrero,Black Beatles,0.50,0.85,uk-rage,link
+Lancey Foux,LANCEY OR LANCEY,0.50,0.85,rap-futuristic,link
+Lancey Foux,Poison,0.25,0.75,rap-dark,link
+Lancey Foux,Life & Death,0.20,0.70,rap-dark,link
+Lancey Foux,Respect,0.45,0.80,rap,link
+Destroy Lonely,NOSTYLIST,0.40,0.65,rap,link
+Destroy Lonely,If Looks Could Kill,0.30,0.65,rap,link
+Destroy Lonely,Bane,0.15,0.55,rap-dark,link
+Destroy Lonely,VETERAN,0.25,0.85,rap,link
+Destroy Lonely,SWGSKOOL,0.35,0.70,rap,link
+Ken Carson,Jennifer's Body,0.60,0.85,rage-rap,link
+Ken Carson,Fighting My Demons,0.25,0.95,rage-rap,link
+Ken Carson,Yale,0.55,0.78,rage-rap,link
+Ken Carson,Freestyle 2,0.40,0.90,rage-rap,link
+Ken Carson,Me N My Kup,0.30,0.85,rage-rap,link
+Homixide Gang,Uzi Work,0.45,0.90,rage-rap,link
+Homixide Gang,5 Ways,0.35,0.92,rage-rap,link
+Homixide Gang,Lifestyle,0.40,0.85,rage-rap,link
+Lucki,Sunset,0.35,0.45,cloud-rap,link
+Lucki,More Than Ever,0.25,0.50,cloud-rap,link
+Lucki,New Drank,0.30,0.55,cloud-rap,link
+Lucki,Super Urus,0.40,0.60,cloud-rap,link
+Lucki,Faith,0.20,0.40,cloud-rap,link
+Yeat,Monëy so big,0.55,0.70,rap,link
+Yeat,Out thë way,0.45,0.65,rap,link
+Yeat,Breathe,0.35,0.80,rap,link
+Yeat,IDGAF,0.30,0.75,rap,link
+Yeat,Nun id change,0.40,0.70,rap,link
+Summrs,Swing Ya Pole,0.50,0.80,pluggnb,link
+Summrs,Just Cant,0.45,0.70,pluggnb,link
+Kankan,Wokeup,0.40,0.85,rage-rap,link
+Kankan,Goin To Hell,0.25,0.80,rage-rap,link
+Izaya Tiji,Deeply,0.20,0.50,cloud-rap,link
+Izaya Tiji,Interlude,0.15,0.40,cloud-rap,link
+Night Lovell,Dark Light,0.10,0.55,dark-trap,link
+Night Lovell,Still Cold,0.15,0.60,dark-trap,link
+Night Lovell,Joan of Arc,0.20,0.85,dark-trap,link
+$uicideboy$,Paris,0.15,0.90,rap-dark,link
+$uicideboy$,Antarctica,0.10,0.50,rap-sad,link
+$uicideboy$,Kill Yourself (Part III),0.05,0.30,rap-sad,link
+$uicideboy$,Matte Black,0.25,0.80,rap-dark,link
+Bones,HDMI,0.20,0.70,dark-trap,link
+Bones,Dirt,0.25,0.65,dark-trap,link
+Bones,AirplaneMode,0.15,0.40,dark-trap,link
+Xavier Wulf,Psycho Pass,0.35,0.85,dark-trap,link
+Xavier Wulf,Thunder Man,0.30,0.80,dark-trap,link
+Ghostemane,Mercury: Retrograde,0.10,0.95,metal-rap,link
+Ghostemane,Fed Up,0.15,0.90,metal-rap,link
+Ghostemane,Squeeze,0.20,0.85,metal-rap,link
+Freddie Dredd,GTG,0.40,0.85,phonk,link
+Freddie Dredd,Cha Cha,0.55,0.80,phonk,link
+Freddie Dredd,Limbo,0.30,0.75,phonk,link
+Sxmpra,Cowbell Warrior!,0.45,0.95,phonk,link
+Kordhell,Murder In My Mind,0.30,0.98,phonk,link
+Kordhell,Live Another Day,0.40,0.95,phonk,link
+UnoTheActivist,Fabo,0.55,0.75,rap,link
+Thouxanbanfauni,Ultra Violet,0.45,0.70,rap,link
+UnoTheActivist,Purgatory,0.40,0.65,rap,link
+BabySantana,Antisocial,0.50,0.80,rap,link
+Slump6s,Antisocial 2,0.55,0.85,rap,link
+BKTHERULA,LEFT RIGHT,0.45,0.75,rap,link
+BKTHERULA,TWEAKIN' TOGETHER,0.35,0.70,rap,link
+Cochise,Tell Em,0.65,0.85,rap,link
+Cochise,Pocket Rocket,0.60,0.80,rap,link
+Trippie Redd,Dark Knight Dummo,0.25,0.90,rap-dark,link
+Trippie Redd,The Grinch,0.30,0.95,rap-rage,link
+Trippie Redd,Miss The Rage,0.50,0.85,rage-rap,link
+Playboi Carti,2024,0.35,0.70,rap,link
+Playboi Carti,UR THE MOON,0.40,0.65,rap,link
+Kygo,Firestone,0.65,0.70,tropical-house,link
+Kygo,Stole the Show,0.60,0.65,tropical-house,link
+Kygo,It Ain't Me,0.60,0.75,tropical-house,link
+Kygo,Higher Love,0.80,0.85,tropical-house,link
+Robin Schulz,Sugar,0.85,0.80,deep-house,link
+Robin Schulz,Sun Goes Down,0.70,0.75,deep-house,link
+Robin Schulz,Prayer in C,0.75,0.80,deep-house,link
+Felix Jaehn,Cheerleader (Remix),0.90,0.80,summer-pop,link
+Mike Posner,I Took A Pill In Ibiza (Seeb Remix),0.70,0.75,tropical-house,link
+Duke Dumont,Ocean Drive,0.65,0.80,house-summer,link
+Duke Dumont,I Got U,0.85,0.90,house-summer,link
+Kungs,This Girl,0.95,0.90,summer-dance,link
+Lost Frequencies,Are You With Me,0.60,0.70,summer-chill,link
+Lost Frequencies,Reality,0.75,0.75,summer-chill,link
+Jonas Blue,Perfect Strangers,0.80,0.85,summer-pop,link
+Jonas Blue,Fast Car,0.70,0.80,summer-pop,link
+Jonas Blue,Mama,0.85,0.85,summer-pop,link
+Sigala,Sweet Lovin',0.95,0.95,house-party,link
+Sigala,Easy Love,0.90,0.90,house-party,link
+Galantis,Peanut Butter Jelly,0.85,0.95,house-party,link
+Galantis,Runaway (U & I),0.70,0.90,house-party,link
+Clean Bandit,Rather Be,0.80,0.85,pop-dance,link
+Clean Bandit,Symphony,0.65,0.80,pop-dance,link
+Clean Bandit,Rockabye,0.75,0.80,pop-dance,link
+DJ Snake,Middle,0.60,0.75,summer-chill,link
+Major Lazer,Light It Up,0.85,0.95,moombahton,link
+Major Lazer,Cold Water,0.65,0.80,pop-summer,link
+Justin Bieber,Peaches,0.70,0.65,rnb-summer,link
+Justin Bieber,What Do You Mean?,0.75,0.70,pop-summer,link
+Magic!,Rude,0.85,0.75,reggae-pop,link
+DNCE,Cake By The Ocean,0.90,0.95,pop-funk,link
+Walk The Moon,Shut Up and Dance,0.90,0.95,pop-rock,link
+American Authors,Best Day Of My Life,0.95,0.90,pop-rock,link
+Fitz and The Tantrums,HandClap,0.85,0.90,pop-rock,link
+Portugal. The Man,Feel It Still,0.80,0.75,alt-pop,link
+Milky Chance,Stolen Dance,0.70,0.65,alt-summer,link
+George Ezra,Budapest,0.65,0.60,folk-pop,link
+George Ezra,Shotgun,0.90,0.80,summer-pop,link
+Vance Joy,Riptide,0.85,0.75,indie-folk,link
+The Lumineers,Ho Hey,0.75,0.70,indie-folk,link
+Train,Hey, Soul Sister,0.85,0.75,pop-rock,link
+Jason Mraz,I'm Yours,0.95,0.60,acoustic-summer,link
+Jack Johnson,Better Together,0.80,0.50,acoustic-chill,link
+Bob Marley,Three Little Birds,0.90,0.55,reggae,link
+Bob Marley,Is This Love,0.95,0.60,reggae,link
+Bob Marley,Could You Be Loved,0.90,0.75,reggae,link
+Inner Circle,Sweat (A La La La La Long),0.95,0.80,reggae,link
+Shaggy,It Wasn't Me,0.85,0.75,reggae-pop,link
+Shaggy,Angel,0.80,0.70,reggae-pop,link
+Sean Paul,Get Busy,0.80,0.95,dancehall,link
+Daddy Yankee,Con Calma,0.85,0.90,reggaeton,link
+Nicky Jam,X,0.90,0.85,reggaeton,link
+Ozuna,Taki Taki,0.75,0.90,reggaeton,link
+Maluma,Felices los 4,0.75,0.75,latin-pop,link
+Enrique Iglesias,Bailando,0.85,0.80,latin-pop,link
+Luis Fonsi,Despacito,0.85,0.80,latin-pop,link
+Camila Cabello,Havana,0.65,0.75,latin-pop,link
+Shawn Mendes,Señorita,0.70,0.65,latin-pop,link
+Dua Lipa,New Rules,0.75,0.80,pop-summer,link
+Dua Lipa,One Kiss,0.75,0.85,house-summer,link
+Calvin Harris,Feels,0.85,0.80,funk-pop,link
+Calvin Harris,Slide,0.70,0.75,funk-pop,link
+Calvin Harris,This Is What You Came For,0.75,0.80,edm-summer,link
+Katy Perry,California Gurls,0.90,0.85,pop-summer,link
+Katy Perry,Teenage Dream,0.85,0.80,pop-summer,link
+Lorde,Solar Power,0.80,0.60,indie-summer,link
+Dominic Fike,3 Nights,0.75,0.70,alt-pop,link
+Surfaces,Sunday Best,0.90,0.65,pop-chill,link
+Beni,Supalonely,0.85,0.70,pop-viral,link
+Glass Animals,Heat Waves,0.55,0.55,indie-summer,link
+Tame Impala,Is It True,0.65,0.75,psych-pop,link
+Childish Gambino,Feels Like Summer,0.60,0.55,rnb-summer,link
+Frank Ocean,Slide,0.65,0.70,rnb-summer,link
+Tyler The Creator,WUSYANAME,0.70,0.65,rap-summer,link
+Lil Tecca,Ransom,0.75,0.75,rap-summer,link
+Lil Mosey,Blueberry Faygo,0.80,0.75,rap-summer,link
+Post Malone,Sunflower,0.90,0.75,pop-rap,link
+Swae Lee,Unforgettable,0.70,0.65,afrobeats,link
+WizKid,Essence,0.75,0.60,afrobeats,link
+Burna Boy,Last Last,0.65,0.70,afrobeats,link
+Rema,Calm Down,0.85,0.75,afrobeats,link
+CKay,love nwantiti,0.60,0.55,afrobeats,link
+Bon Iver,Holocene,0.15,0.20,indie-winter,link
+Bon Iver,Skinny Love,0.20,0.25,indie-winter,link
+Bon Iver,Rosyln,0.10,0.15,indie-winter,link
+Bon Iver,For Emma,0.25,0.30,indie-winter,link
+Fleet Foxes,White Winter Hymnal,0.40,0.45,folk-winter,link
+Fleet Foxes,Mykonos,0.35,0.50,folk-winter,link
+The Paper Kites,Bloom,0.30,0.35,indie-folk,link
+Iron & Wine,Flightless Bird American Mouth,0.20,0.25,folk-ballad,link
+Gregory Alan Isakov,The Stable Song,0.25,0.30,folk-winter,link
+Sufjan Stevens,Mystery of Love,0.25,0.20,indie-folk,link
+Sufjan Stevens,Fourth of July,0.10,0.15,indie-sad,link
+Novo Amor,Anchor,0.15,0.25,indie-folk,link
+Novo Amor,Carry You,0.20,0.30,indie-folk,link
+Daughter,Youth,0.25,0.45,indie-sad,link
+Daughter,Medicine,0.15,0.35,indie-sad,link
+Ben Howard,Old Pine,0.50,0.45,folk-chill,link
+Ben Howard,Keep Your Head Up,0.60,0.60,folk-chill,link
+Kodaline,All I Want,0.25,0.40,indie-pop,link
+Kodaline,High Hopes,0.30,0.45,indie-pop,link
+Seafret,Oceans,0.35,0.50,indie-pop,link
+Tom Odell,Another Love,0.25,0.45,indie-sad,link
+Tom Odell,Heal,0.15,0.25,indie-sad,link
+Hozier,Cherry Wine,0.30,0.20,acoustic-winter,link
+Hozier,Work Song,0.40,0.45,indie-soul,link
+Hozier,Like Real People Do,0.35,0.30,indie-folk,link
+The Lumineers,Ophelia,0.60,0.55,folk-rock,link
+The Lumineers,Stubborn Love,0.55,0.60,folk-rock,link
+Of Monsters and Men,Little Talks,0.65,0.80,folk-pop,link
+Of Monsters and Men,Dirty Paws,0.50,0.60,folk-pop,link
+Vance Joy,Mess Is Mine,0.65,0.60,indie-folk,link
+Lord Huron,The Night We Met,0.20,0.35,indie-winter,link
+Lord Huron,Ends of the Earth,0.45,0.55,folk-rock,link
+SYML,Where's My Love,0.25,0.30,indie-sad,link
+Amber Run,I Found,0.20,0.35,indie-sad,link
+Aquilo,Silhouette,0.15,0.25,indie-sad,link
+Aurora,Runaway,0.25,0.40,nordic-pop,link
+Aurora,Running with the Wolves,0.45,0.65,nordic-pop,link
+Sigur Rós,Hoppípolla,0.50,0.55,post-rock,link
+Radiohead,No Surprises,0.20,0.30,alt-rock,link
+Radiohead,Fake Plastic Trees,0.25,0.35,alt-rock,link
+Radiohead,Exit Music (For A Film),0.10,0.25,alt-rock,link
+The Neighbourhood,Sweater Weather,0.40,0.60,alt-rock,link
+The Neighbourhood,Daddy Issues,0.35,0.60,alt-rock,link
+Frank Sinatra,Fly Me To The Moon,0.60,0.50,jazz-classic,link
+Frank Sinatra,My Way,0.45,0.40,jazz-classic,link
+Frank Sinatra,New York New York,0.70,0.65,jazz-classic,link
+Dean Martin,Ain't That A Kick In The Head,0.75,0.60,jazz-classic,link
+Michael Bublé,Feeling Good,0.65,0.70,jazz-pop,link
+Michael Bublé,Home,0.35,0.40,jazz-ballad,link
+Etta James,At Last,0.60,0.35,soul-classic,link
+Norah Jones,Don't Know Why,0.45,0.30,jazz-pop,link
+Norah Jones,Come Away With Me,0.50,0.30,jazz-pop,link
+Adele,Easy On Me,0.30,0.40,pop-ballad,link
+Adele,When We Were Young,0.35,0.45,pop-ballad,link
+Sam Smith,Writing's On The Wall,0.20,0.35,pop-ballad,link
+Billie Eilish,idontwannabeyouanymore,0.25,0.35,pop-sad,link
+Billie Eilish,ocean eyes,0.35,0.40,pop-sad,link
+Lana Del Rey,Norman fucking Rockwell,0.30,0.35,pop-sad,link
+Lana Del Rey,Mariners Apartment Complex,0.35,0.45,pop-sad,link
+Phoebe Bridgers,Kyoto,0.40,0.60,indie-rock,link
+Phoebe Bridgers,I Know The End,0.20,0.55,indie-rock,link
+Mazzy Star,Fade Into You,0.30,0.35,dream-pop,link
+Cocteau Twins,Heaven or Las Vegas,0.60,0.65,dream-pop,link
+Slowdive,Alison,0.40,0.50,shoegaze,link
+Beach House,Myth,0.35,0.55,dream-pop,link
+Beach House,Space Song,0.25,0.45,dream-pop,link
+TV Girl,Lovers Rock,0.50,0.55,indie-pop,link
+Men I Trust,Show Me How,0.45,0.40,dream-pop,link
+Clairo,Bags,0.50,0.55,lofi-pop,link
+Clairo,Pretty Girl,0.60,0.50,lofi-pop,link
+Joji,Yeah Right,0.25,0.45,lofi-rnb,link
+Joji,Will He,0.20,0.40,lofi-rnb,link
+Powfu,Death Bed (Coffee for Your Head),0.55,0.60,lofi-rap,link
+XXXTENTACION,changes,0.20,0.25,emo-rap,link
+Lil Peep,Life is Beautiful,0.25,0.55,emo-rap,link
+Coldplay,Christmas Lights,0.40,0.50,winter-pop,link
+Coldplay,The Scientist,0.25,0.40,rock-sad,link
+Coldplay,Fix You,0.30,0.45,rock-sad,link
+Keane,Somewhere Only We Know,0.45,0.55,piano-rock,link
+The Fray,How to Save a Life,0.30,0.60,rock-sad,link
+Snow Patrol,Chasing Cars,0.25,0.50,rock-sad,link
+John Mayer,Slow Dancing in a Burning Room,0.30,0.40,blues-rock,link
+John Mayer,Gravity,0.35,0.30,blues-rock,link
+Ed Sheeran,The A Team,0.35,0.40,folk-pop,link
+Ed Sheeran,Photograph,0.40,0.45,pop-ballad,link
+James Arthur,Train Wreck,0.25,0.50,pop-soul,link
+Lewis Capaldi,Bruises,0.20,0.40,pop-sad,link
