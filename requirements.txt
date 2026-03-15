@@ -1,3 +1,7 @@
-streamlit
+flask
 pandas
 openai
+scikit-learn
+faiss-cpu
+requests
+beautifulsoup4
